@@ -1,7 +1,7 @@
-<h2 align="center">
-SceneTeract<br>
-  Agentic Functional Affordances and VLM Grounding in 3D Scenes
-</h2>
+<h1 align="center">
+  SceneTeract<br>
+  <sub>Agentic Functional Affordances and VLM Grounding in 3D Scenes</sub>
+</h1>
 
 <p align="center">
               <a href="https://www.lix.polytechnique.fr/~maillard/">Léopold Maillard</a><sup>1,2</sup>,</span>
