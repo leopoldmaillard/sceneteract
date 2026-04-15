@@ -1,8 +1,9 @@
 <div align="center">
 
-<h1>SceneTeract</h1>
-
-<h2>Agentic Functional Affordances and VLM Grounding in 3D Scenes</h2>
+<p align="center">
+  <b style="font-size: xx-large;">SceneTeract</b><br />
+  <b style="font-size: x-large;">Agentic Functional Affordances and VLM Grounding in 3D Scenes</b>
+</p>
 
 <hr />
 
